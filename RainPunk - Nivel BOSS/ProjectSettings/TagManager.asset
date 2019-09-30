@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Detectar
+  - Menu
+  - Flood
+  - Enemy
+  - Mundo
+  - Hack
+  - Esconder
+  - Salida
+  - Camerita
+  - Hack2
+  - camerita
+  - Hack4
+  - Tuberia
+  - Hack3
+  - Hack1
+  - Hack5
+  - Linterna1
+  - Dead
+  - Caja1
+  - Nivel3
+  - TopCamera
+  - Linternita
+  - Mundo1
+  - TopMundo
+  - MundoTop
+  - Nivel1
+  - Nivel2
+  - cosita3
+  - Nivel4
+  - FxTemporaire
+  - Recoge
+  - NUVE
+  - VerVillano
+  - CargaNivel1
+  - BOSS
+  - GANAR
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Police
+  - Player
+  - TopCaida
+  - Plataforma
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

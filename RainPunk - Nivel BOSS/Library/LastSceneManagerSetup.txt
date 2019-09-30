@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/NUEVO-NIVEL/Scenes/BOSS.unity
+  isLoaded: 1
+  isActive: 1
